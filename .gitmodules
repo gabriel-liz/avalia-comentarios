@@ -1,0 +1,6 @@
+[submodule "microsservicos/comentarios"]
+	path = microsservicos/comentarios
+	url = https://github.com/gabriel-liz/comentarios.git
+[submodule "microsservicos/moderacao"]
+	path = microsservicos/moderacao
+	url = https://github.com/gabriel-liz/moderacao.git
